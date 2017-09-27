@@ -3,7 +3,7 @@
 	<div class="col-md-8 border col">
 	   <div class="inner border">
 	   
-	    <h1><?php echo t("Simple, Powerful & Highly Flexible way to")?> <span><?php echo t("manage your company")?>.</span></h1>
+	    <h1><?php echo t("Simple, Powerful & Highly Flexible way to")?> <span><?php echo t("manage your company deliveries")?>.</span></h1>
 	    
 	    <p><?php echo t("Ditch the lengthy message threads, disruptive calls, out of place spreadsheets and clunky software to run your operations")?>. <?php echo FrontFunctions::getCompanyName()?> <?php echo t("lets you take back the control and allows you to focus on growing your business")?>.</p>
 	   
@@ -31,7 +31,7 @@
 	    
 	    <div class="line margin"></div>
 	    
-	    <h3><?php echo t("Available on")?>:</h3>
+	    <h3><?php echo t("Available For")?>:</h3>
 	    
 	    <div class="available-wrap">
 	     <!--<img src="<?php echo Yii::app()->getBaseUrl(true)."/assets/images-front/web-version.png";?>">
